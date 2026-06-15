@@ -1,0 +1,6 @@
+{
+  "name": "Eryndor Fantasy Franchise",
+  "description": "An interactive, ancient parchment-styled website exploring the kingdoms, characters, creatures, and lore of the fantasy world of Kavirah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
